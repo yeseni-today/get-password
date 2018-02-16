@@ -1,0 +1,24 @@
+{
+  "name": "get-password",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aollio/get-password.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aollio/get-password/issues"
+  },
+  "homepage": "https://github.com/aollio/get-password#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
